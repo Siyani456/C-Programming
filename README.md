@@ -1,3 +1,3 @@
 # C-Programming
 Codings
-coding exercies
+Activites
